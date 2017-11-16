@@ -21,7 +21,7 @@ public abstract class ComplexNumbers {
             }
 
             return result;
-        } else return new ComplexNumber(new Fraction(0, 0), new Fraction(0, 0));
+        } else return new ComplexNumber(new Fraction(0, 1), new Fraction(0, 1));
     }
 
     public static ComplexNumber sumOfDots(ComplexNumber... args) {
@@ -38,7 +38,7 @@ public abstract class ComplexNumbers {
             }
 
             return result;
-        } else return new ComplexNumber(new Fraction(0, 0), new Fraction(0, 0));
+        } else return new ComplexNumber(new Fraction(0, 1), new Fraction(0, 1));
     }
 
     private static boolean isDataValid(ComplexNumber... args) {
