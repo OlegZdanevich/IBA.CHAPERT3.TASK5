@@ -1,9 +1,9 @@
 package com.company.Run;
 
-import com.company.ComlpexNumber.ComplexNumber;
-import com.company.ComlpexNumber.ComplexNumbers;
+import com.company.Logic.ComlpexNumber.ComplexNumber;
+import com.company.Logic.ComlpexNumber.ComplexNumbers;
 import com.company.Exceptions.Exceptions;
-import com.company.Fraction.Fraction;
+import com.company.Logic.Fraction.Fraction;
 
 
 import java.util.Scanner;

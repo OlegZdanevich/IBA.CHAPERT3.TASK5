@@ -34,8 +34,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.multiplicationOfDots(ComplexNumbersTest.java:91)
-com.company.ComlpexNumber.ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:11)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:11)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-16 23:05:15.512 [main] Fraction - Number of denominator is 0
 [ERROR] 2017-11-16 23:05:15.512 [main] Fraction - Divsion by zero
@@ -73,8 +73,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.multiplicationOfDots(ComplexNumbersTest.java:91)
-com.company.ComlpexNumber.ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:24)
-com.company.Fraction.Fraction.<init>(Fraction.java:14)
+ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:24)
+Fraction.<init>(Fraction.java:14)
 
 [ERROR] 2017-11-16 23:05:15.527 [main] Fraction - Number of denominator is 0
 [ERROR] 2017-11-16 23:05:15.527 [main] Fraction - Divsion by zero
@@ -112,8 +112,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.multiplicationOfDots(ComplexNumbersTest.java:91)
-com.company.ComlpexNumber.ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:24)
-com.company.Fraction.Fraction.<init>(Fraction.java:14)
+ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:24)
+Fraction.<init>(Fraction.java:14)
 
 [ERROR] 2017-11-16 23:05:15.527 [main] ComplexNumbers - Number of arguments is 0
 [ERROR] 2017-11-16 23:05:15.527 [main] ComplexNumbers - This method should have parametrs
@@ -151,8 +151,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.sumOfDots(ComplexNumbersTest.java:73)
-com.company.ComlpexNumber.ComplexNumbers.sumOfDots(ComplexNumbers.java:28)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.sumOfDots(ComplexNumbers.java:28)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-16 23:05:15.543 [main] Fraction - Number of denominator is 0
 [ERROR] 2017-11-16 23:05:15.543 [main] Fraction - Divsion by zero
@@ -190,8 +190,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.sumOfDots(ComplexNumbersTest.java:73)
-com.company.ComlpexNumber.ComplexNumbers.sumOfDots(ComplexNumbers.java:41)
-com.company.Fraction.Fraction.<init>(Fraction.java:14)
+ComplexNumbers.sumOfDots(ComplexNumbers.java:41)
+Fraction.<init>(Fraction.java:14)
 
 [ERROR] 2017-11-16 23:05:15.543 [main] Fraction - Number of denominator is 0
 [ERROR] 2017-11-16 23:05:15.543 [main] Fraction - Divsion by zero
@@ -229,8 +229,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.sumOfDots(ComplexNumbersTest.java:73)
-com.company.ComlpexNumber.ComplexNumbers.sumOfDots(ComplexNumbers.java:41)
-com.company.Fraction.Fraction.<init>(Fraction.java:14)
+ComplexNumbers.sumOfDots(ComplexNumbers.java:41)
+Fraction.<init>(Fraction.java:14)
 
 [ERROR] 2017-11-16 23:06:14.973 [main] ComplexNumbers - Number of arguments is 0
 [ERROR] 2017-11-16 23:06:14.973 [main] ComplexNumbers - This method should have parametrs
@@ -260,8 +260,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.sumOfDots(ComplexNumbersTest.java:73)
-com.company.ComlpexNumber.ComplexNumbers.sumOfDots(ComplexNumbers.java:28)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.sumOfDots(ComplexNumbers.java:28)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-16 23:06:14.973 [main] Fraction - Number of denominator is 0
 [ERROR] 2017-11-16 23:06:14.973 [main] Fraction - Divsion by zero
@@ -291,8 +291,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.sumOfDots(ComplexNumbersTest.java:73)
-com.company.ComlpexNumber.ComplexNumbers.sumOfDots(ComplexNumbers.java:41)
-com.company.Fraction.Fraction.<init>(Fraction.java:14)
+ComplexNumbers.sumOfDots(ComplexNumbers.java:41)
+Fraction.<init>(Fraction.java:14)
 
 [ERROR] 2017-11-16 23:06:14.989 [main] Fraction - Number of denominator is 0
 [ERROR] 2017-11-16 23:06:14.989 [main] Fraction - Divsion by zero
@@ -322,8 +322,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.sumOfDots(ComplexNumbersTest.java:73)
-com.company.ComlpexNumber.ComplexNumbers.sumOfDots(ComplexNumbers.java:41)
-com.company.Fraction.Fraction.<init>(Fraction.java:14)
+ComplexNumbers.sumOfDots(ComplexNumbers.java:41)
+Fraction.<init>(Fraction.java:14)
 
 [ERROR] 2017-11-16 23:07:16.878 [main] ComplexNumbers - Number of arguments is 0
 [ERROR] 2017-11-16 23:07:16.878 [main] ComplexNumbers - This method should have parametrs
@@ -353,8 +353,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.sumOfDots(ComplexNumbersTest.java:73)
-com.company.ComlpexNumber.ComplexNumbers.sumOfDots(ComplexNumbers.java:28)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.sumOfDots(ComplexNumbers.java:28)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-16 23:07:49.209 [main] ComplexNumbers - Number of arguments is 0
 [ERROR] 2017-11-16 23:07:49.209 [main] ComplexNumbers - This method should have parametrs
@@ -384,8 +384,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.sumOfDots(ComplexNumbersTest.java:73)
-com.company.ComlpexNumber.ComplexNumbers.sumOfDots(ComplexNumbers.java:28)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.sumOfDots(ComplexNumbers.java:28)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-16 23:07:58.089 [main] ComplexNumbers - Number of arguments is 0
 [ERROR] 2017-11-16 23:07:58.089 [main] ComplexNumbers - This method should have parametrs
@@ -415,8 +415,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.multiplicationOfDots(ComplexNumbersTest.java:91)
-com.company.ComlpexNumber.ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:11)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:11)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-16 23:07:58.089 [main] Fraction - Number of denominator is 0
 [ERROR] 2017-11-16 23:07:58.089 [main] Fraction - Divsion by zero
@@ -446,8 +446,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.multiplicationOfDots(ComplexNumbersTest.java:91)
-com.company.ComlpexNumber.ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:24)
-com.company.Fraction.Fraction.<init>(Fraction.java:14)
+ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:24)
+Fraction.<init>(Fraction.java:14)
 
 [ERROR] 2017-11-16 23:07:58.105 [main] Fraction - Number of denominator is 0
 [ERROR] 2017-11-16 23:07:58.105 [main] Fraction - Divsion by zero
@@ -477,8 +477,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.multiplicationOfDots(ComplexNumbersTest.java:91)
-com.company.ComlpexNumber.ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:24)
-com.company.Fraction.Fraction.<init>(Fraction.java:14)
+ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:24)
+Fraction.<init>(Fraction.java:14)
 
 [ERROR] 2017-11-16 23:07:58.126 [main] ComplexNumbers - Number of arguments is 0
 [ERROR] 2017-11-16 23:07:58.126 [main] ComplexNumbers - This method should have parametrs
@@ -508,8 +508,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.sumOfDots(ComplexNumbersTest.java:73)
-com.company.ComlpexNumber.ComplexNumbers.sumOfDots(ComplexNumbers.java:28)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.sumOfDots(ComplexNumbers.java:28)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-16 23:08:20.108 [main] ComplexNumbers - Number of arguments is 0
 [ERROR] 2017-11-16 23:08:20.123 [main] ComplexNumbers - This method should have parametrs
@@ -539,8 +539,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.multiplicationOfDots(ComplexNumbersTest.java:91)
-com.company.ComlpexNumber.ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:11)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:11)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-16 23:08:20.123 [main] Fraction - Number of denominator is 0
 [ERROR] 2017-11-16 23:08:20.123 [main] Fraction - Divsion by zero
@@ -570,8 +570,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.multiplicationOfDots(ComplexNumbersTest.java:91)
-com.company.ComlpexNumber.ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:24)
-com.company.Fraction.Fraction.<init>(Fraction.java:14)
+ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:24)
+Fraction.<init>(Fraction.java:14)
 
 [ERROR] 2017-11-16 23:08:20.139 [main] Fraction - Number of denominator is 0
 [ERROR] 2017-11-16 23:08:20.139 [main] Fraction - Divsion by zero
@@ -601,8 +601,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.multiplicationOfDots(ComplexNumbersTest.java:91)
-com.company.ComlpexNumber.ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:24)
-com.company.Fraction.Fraction.<init>(Fraction.java:14)
+ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:24)
+Fraction.<init>(Fraction.java:14)
 
 [ERROR] 2017-11-16 23:08:49.865 [main] ComplexNumbers - Number of arguments is 0
 [ERROR] 2017-11-16 23:08:49.865 [main] ComplexNumbers - This method should have parametrs
@@ -632,8 +632,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.multiplicationOfDots(ComplexNumbersTest.java:91)
-com.company.ComlpexNumber.ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:11)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:11)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-16 23:09:09.849 [main] ComplexNumbers - Number of arguments is 0
 [ERROR] 2017-11-16 23:09:09.849 [main] ComplexNumbers - This method should have parametrs
@@ -663,8 +663,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.multiplicationOfDots(ComplexNumbersTest.java:91)
-com.company.ComlpexNumber.ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:11)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:11)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-16 23:09:09.849 [main] ComplexNumbers - Number of arguments is 0
 [ERROR] 2017-11-16 23:09:09.849 [main] ComplexNumbers - This method should have parametrs
@@ -694,8 +694,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.sumOfDots(ComplexNumbersTest.java:73)
-com.company.ComlpexNumber.ComplexNumbers.sumOfDots(ComplexNumbers.java:28)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.sumOfDots(ComplexNumbers.java:28)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-16 23:09:45.115 [main] ComplexNumbers - Number of arguments is 0
 [ERROR] 2017-11-16 23:09:45.115 [main] ComplexNumbers - This method should have parametrs
@@ -733,8 +733,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.multiplicationOfDots(ComplexNumbersTest.java:91)
-com.company.ComlpexNumber.ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:11)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:11)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-16 23:09:45.115 [main] ComplexNumbers - Number of arguments is 0
 [ERROR] 2017-11-16 23:09:45.115 [main] ComplexNumbers - This method should have parametrs
@@ -772,8 +772,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.sumOfDots(ComplexNumbersTest.java:73)
-com.company.ComlpexNumber.ComplexNumbers.sumOfDots(ComplexNumbers.java:28)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.sumOfDots(ComplexNumbers.java:28)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-16 23:10:58.645 [main] ComplexNumbers - Number of arguments is 0
 [ERROR] 2017-11-16 23:10:58.645 [main] ComplexNumbers - This method should have parametrs
@@ -811,8 +811,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.multiplicationOfDots(ComplexNumbersTest.java:91)
-com.company.ComlpexNumber.ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:11)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:11)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-16 23:10:58.645 [main] ComplexNumbers - Number of arguments is 0
 [ERROR] 2017-11-16 23:10:58.645 [main] ComplexNumbers - This method should have parametrs
@@ -850,8 +850,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.sumOfDots(ComplexNumbersTest.java:73)
-com.company.ComlpexNumber.ComplexNumbers.sumOfDots(ComplexNumbers.java:28)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.sumOfDots(ComplexNumbers.java:28)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-19 12:29:17.830 [main] Exceptions - This method should have parametrs
 Trace: 
@@ -888,8 +888,8 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.multiplicationOfDots(ComplexNumbersTest.java:91)
-com.company.ComlpexNumber.ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:10)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.multiplicationOfDots(ComplexNumbers.java:10)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-19 12:29:17.830 [main] Exceptions - This method should have parametrs
 Trace: 
@@ -926,13 +926,20 @@ java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMet
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 com.company.ComlpexNumber.ComplexNumbersTest.sumOfDots(ComplexNumbersTest.java:73)
-com.company.ComlpexNumber.ComplexNumbers.sumOfDots(ComplexNumbers.java:27)
-com.company.ComlpexNumber.ComplexNumbers.isDataValid(ComplexNumbers.java:46)
+ComplexNumbers.sumOfDots(ComplexNumbers.java:27)
+ComplexNumbers.isDataValid(ComplexNumbers.java:46)
 
 [ERROR] 2017-11-19 12:51:36.260 [main] Exceptions - You should enter integer number
 Trace: 
 com.company.Run.Main.main(Main.java:27)
 com.company.Run.Main.createComplexNumber(Main.java:62)
+java.base/java.lang.Integer.parseInt(Integer.java:770)
+java.base/java.lang.Integer.parseInt(Integer.java:652)
+java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+
+[ERROR] 2017-11-19 23:02:39.792 [main] Exceptions - You should enter integer number
+Trace: 
+com.company.Run.Main.main(Main.java:18)
 java.base/java.lang.Integer.parseInt(Integer.java:770)
 java.base/java.lang.Integer.parseInt(Integer.java:652)
 java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)

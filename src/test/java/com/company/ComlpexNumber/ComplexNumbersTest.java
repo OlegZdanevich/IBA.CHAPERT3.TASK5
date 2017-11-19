@@ -1,15 +1,15 @@
 package com.company.ComlpexNumber;
 
-import com.company.Fraction.Fraction;
+import com.company.Logic.ComlpexNumber.ComplexNumber;
+import com.company.Logic.ComlpexNumber.ComplexNumbers;
+import com.company.Logic.Fraction.Fraction;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.FixMethodOrder;
 import org.junit.Test;
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
-import org.junit.runner.RunWith;
 import org.junit.runners.MethodSorters;
-import org.junit.runners.Suite;
 
 import static org.junit.Assert.*;
 

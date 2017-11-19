@@ -1,7 +1,7 @@
-package com.company.ComlpexNumber;
+package com.company.Logic.ComlpexNumber;
 
-import com.company.Fraction.Fraction;
-import com.company.Fraction.FractionTools;
+import com.company.Logic.Fraction.Fraction;
+import com.company.Logic.Fraction.FractionTools;
 
 public abstract class ComplexNumberTools {
 
