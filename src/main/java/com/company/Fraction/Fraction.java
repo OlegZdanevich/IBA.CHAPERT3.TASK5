@@ -1,13 +1,12 @@
 package com.company.Fraction;
 
 
-import org.apache.log4j.Logger;
+import com.company.Exceptions.Exceptions;
 
 public class Fraction {
     private long denominator;
     private long numerator;
 
-    private static final Logger log = Logger.getLogger(Fraction.class);
 
     public Fraction(long numerator, long denominator) {
         try {
@@ -15,17 +14,11 @@ public class Fraction {
 
             this.numerator = numerator;
             this.denominator = denominator;
-        } catch (ArithmeticException arithmeticException) {
-            log.error("Number of denominator is 0");
+        }
+        catch (ArithmeticException arithmeticException) {
 
-            StackTraceElement[] info = arithmeticException.getStackTrace();
-            StringBuilder trace = new StringBuilder("");
-
-            for (int i = info.length - 1; i >= 0; i--) {
-                trace.append(info[i].toString() + "\n");
-            }
-
-            log.error(arithmeticException.getMessage() + "\nTrace: \n" + trace);
+            Exceptions.divisionByZero(arithmeticException);
+            this.denominator=1;
         }
 
 

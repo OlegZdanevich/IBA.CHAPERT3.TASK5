@@ -27,7 +27,7 @@ public class ComplexNumbersTest {
     private ComplexNumber complex2 = null;
     private ComplexNumber complex3 = null;
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         JUnitCore runner = new JUnitCore();
         Result result = runner.run(ComplexNumbersTest.class);
         System.out.println("run tests: " + result.getRunCount());
